@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バブリン",
+  "base_artist": "Gohgo",
+  "createdAt": "2025-12-04T23:16:25.750799Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バブリン",
+      "artist": "Gohgo",
+      "has_synced": false,
+      "path": "select/pl_01_バブリン_Gohgo.txt"
+    }
+  ]
+}
